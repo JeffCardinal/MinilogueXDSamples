@@ -1,2 +1,2 @@
 FM EP Loop Points: 14976 - 16384
-SoftEP Loop Points: 8000 - 15999
+SoftEP Loop Points: 7932 - 15809+1
